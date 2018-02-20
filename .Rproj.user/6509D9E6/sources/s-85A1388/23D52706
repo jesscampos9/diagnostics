@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519143890834.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "23D52706",
+    "lastKnownWriteTime" : 1519145198,
+    "last_content_update" : 1519146674977,
+    "path" : "~/Desktop/diagnostics/scripts/my_script.R",
+    "project_path" : "scripts/my_script.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "23",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

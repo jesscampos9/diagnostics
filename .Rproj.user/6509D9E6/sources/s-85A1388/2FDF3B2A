@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519145955566.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2FDF3B2A",
+    "lastKnownWriteTime" : 1519147154,
+    "last_content_update" : 1519147154090,
+    "path" : "~/Desktop/diagnostics/slides/index.Rmd",
+    "project_path" : "slides/index.Rmd",
+    "properties" : {
+        "cursorPosition" : "4,29",
+        "last_setup_crc32" : "85A1388c4e2d899",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
